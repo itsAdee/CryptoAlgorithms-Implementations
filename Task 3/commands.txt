@@ -1,0 +1,14 @@
+To build Solution (should be the first command):
+make all 
+
+To Clean Solution (should be done after a change has been made and then build solution again):
+make clean
+
+For Encryption:
+./kamasutra -e <keyfile.txt> <plaintext.txt> <ciphertext.txt>
+
+For Decryption:
+./kamasutra -d <keyfile.txt> <plaintext.txt> <ciphertext.txt>
+
+For Key :
+./kamasutra -k <keyfile.txt> 
