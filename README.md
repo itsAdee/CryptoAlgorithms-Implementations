@@ -27,7 +27,7 @@ handle any possible errors;
 Write in C/C++ or Java;
 be submitted with a clear readme.txt file.
 NB: Ignore case. That is, you can choose whether you will input and output uppercase or lowercase characters. Also, keep (do not encrypt) special character such as full stops and commas.
-## Task Four: Flipped Kamasutra Cipher (2 marks)
+## Task Three: Flipped Kamasutra Cipher (2 marks)
 Implement Kama Sutra cipher, in C, C++, Java or Python. The name of your program should be Kamasutra.c or Kamasutra.cpp or Kamasutra.java or Kamasutra.py. Include in your report instructions on how to compile your code. You must include a Makefile that can be used to build your program. To build your program, one can just type:
 make all
 The command syntax of your program should be as follows:
