@@ -1,4 +1,4 @@
-# CryptoAnalysisTasks
+# CryptoAnalysis
 Creating basic substitution based cypher algorithms
 ## Task One: Cryptanalysis (2 marks)
 There are two ciphertext files provided. These files are Ctext-1 and Ctext-2. They have been generated using a monoalphabetic cipher and a Vigenère cipher respectively.
